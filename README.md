@@ -42,7 +42,7 @@ aws configure
 ### 🔧 Installation
 
 #### Clone this repository
-git clone https://github.com/gauravsharma-cyber/AWS-S3-Bucket-Misconfiguration-Scanne.git \
+git clone https://github.com/gauravsharma-cyber/AWS-S3-Bucket-Misconfiguration-Scanner.git \
 cd s3-misconfig-scanner
 
 ### Install dependencies
