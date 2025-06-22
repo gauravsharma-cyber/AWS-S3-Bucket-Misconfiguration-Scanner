@@ -52,7 +52,6 @@ pip install boto3
 
 python s3_misconfig_scanner.py
 \
-\
 
 Reports will be saved to the `output/` directory.
 
